@@ -1,0 +1,6 @@
+{
+  "name": "VAST - النطق المدعّم بالفيديو",
+  "description": "تطبيق إعادة التأهيل النطقي واللغوي المدعّم بالفيديو للبالغين المصابين بحبسة بروكا الكلامية",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
